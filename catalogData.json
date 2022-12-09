@@ -1,12 +1,32 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
+    "id_product": 3,
+    "product_name": "Прицеп ЛАВ 81012A",
+    "price": 4564200
   },
   {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
+    "id_product": 4,
+    "product_name": "Прицеп ЛАВ 81011СB 2800*1500",
+    "price": 104200
+  }
+  {
+    "id_product": 5,
+    "product_name": "Прицеп ЛАВ 81011СB 2800*1500",
+    "price": 4564200
+  },
+  {
+    "id_product": 6,
+    "product_name": "Прицеп ЛАВ 81011СB 2800*1500",
+    "price": 100240
+  }
+  {
+    "id_product": 7,
+    "product_name": "Прицеп ЛАВ 81011СB 2800*1500",
+    "price": 43425600
+  },
+  {
+    "id_product": 8,
+    "product_name": "Прицеп ЛАВ 81011СB 2800*1500",
+    "price": 1043200
   }
 ]
